@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DigitalPin KEYWORD1
+
+ButtonToVccPin			KEYWORD1
+ButtonToGndPin			KEYWORD1
+ButtonToGndPullUpPin	KEYWORD1
+
+FakeOnPin	KEYWORD1
+FakeOffPin	KEYWORD1
+
+OutputPin			KEYWORD1
+InverseOutputPin	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+on		KEYWORD2
+off		KEYWORD2
+active	KEYWORD2
+toggle	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
