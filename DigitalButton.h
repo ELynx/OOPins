@@ -154,6 +154,6 @@ namespace Buttons
 
 	typedef DigitalButtonType<OutputMode, ActiveHigh>	Output; //Output pin
 	typedef DigitalButtonType<OutputMode, ActiveLow>	InverseOutput; //Output pin with inverse logic levels
-}
+} //namespace Buttons
 
 #endif // DigitalButton_h__
